@@ -1,0 +1,25 @@
+.about {
+  text-align: left;
+}
+
+.about h2 {
+  font-size: 1.2em;
+  margin-bottom: 10px;
+  color: var(--primary-color);
+}
+
+.about p {
+  font-size: 1em;
+  color: var(--text-color);
+}
+
+.hidden {
+  opacity: 0;
+  transform: translateY(20px);
+}
+
+.visible {
+  opacity: 1;
+  transform: translateY(0);
+  transition: opacity 0.5s ease-in-out, transform 0.5s ease-in-out;
+}

@@ -1,0 +1,38 @@
+.interests {
+  text-align: left;
+}
+
+.interests h2 {
+  font-size: 1.2em;
+  margin-bottom: 10px;
+  color: var(--primary-color);
+}
+
+.interests ul {
+  list-style: none;
+  padding: 0;
+}
+
+.interests li {
+  font-size: 1em;
+  margin: 5px 0;
+  color: var(--text-color);
+  display: flex;
+  align-items: center;
+}
+
+.interests li i {
+  margin-right: 10px;
+  color: var(--primary-color);
+}
+
+.hidden {
+  opacity: 0;
+  transform: translateY(20px);
+}
+
+.visible {
+  opacity: 1;
+  transform: translateY(0);
+  transition: opacity 0.5s ease-in-out, transform 0.5s ease-in-out;
+}
