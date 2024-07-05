@@ -1,36 +1,49 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Profile Social Media 🚀
 
-## Getting Started
+[Español](README.md) <img src="https://flagicons.lipis.dev/flags/4x3/ar.svg" width="20"/> / [Inglés](README_en.md) <img src="https://flagicons.lipis.dev/flags/4x3/us.svg" width="20"/>
 
-First, run the development server:
+Una página de perfil inspirada en las redes sociales modernas, usando transiciones y componentes simples vanilla.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Descripción
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Este proyecto es una página de perfil desarrollada con Next.js y CSS Modules. La página muestra la información del usuario, sus intereses y un formulario de contacto, todo con transiciones suaves y un diseño moderno similar a las redes sociales populares.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🚀 Despliegue del Frontend
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Puedes ver la página desplegada en [Vercel](https://profilesocialmedia.vercel.app/).
 
-## Learn More
+### Instalación y configuración
 
-To learn more about Next.js, take a look at the following resources:
+1. Clona el repositorio:
+   `git clone https://github.com/tu-usuario/ProfileSocialMedia.git`
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+2. Navega al directorio del proyecto:
+   `cd ProfileSocialMedia`
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+3. Instala las dependencias:
+   `npm install`
 
-## Deploy on Vercel
+4. Inicia el servidor de desarrollo:
+   `npm run dev`
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+5. Abre tu navegador y visita `http://localhost:3000`.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## 🛠️ Tecnologías utilizadas
+
+- [Next.js](https://nextjs.org/) - Framework de React para aplicaciones web.
+- [React](https://reactjs.org/) - Librería de JavaScript para construir interfaces de usuario.
+- [CSS Modules](https://github.com/css-modules/css-modules) - Sistema de módulos de CSS para estilos encapsulados.
+- [Vercel](https://vercel.com/) - Plataforma de despliegue.
+
+## 🌐 Desplegado utilizando
+
+[Vercel](https://profilesocialmedia.vercel.app/)
+
+## 📞 Contacto
+
+Si tienes alguna pregunta o sugerencia, no dudes en contactarme:
+
+- **Email**: tu-email@ejemplo.com
+- **GitHub**: [tu-usuario](https://github.com/tu-usuario)
+
+¡Gracias por visitar este proyecto! Espero que te guste. 😊
