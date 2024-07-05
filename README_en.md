@@ -15,7 +15,7 @@ You can view the deployed page on [Vercel](https://profilesocialmedia.vercel.app
 ### Installation and Setup
 
 1. Clone the repository:
-   `git clone https://github.com/your-username/ProfileSocialMedia.git`
+   `git clone https://github.com/DarioAlbor/ProfileSocialMedia.git`
 
 2. Navigate to the project directory:
    `cd ProfileSocialMedia`
@@ -43,7 +43,7 @@ You can view the deployed page on [Vercel](https://profilesocialmedia.vercel.app
 
 If you have any questions or suggestions, feel free to contact me:
 
-- **Email**: your-email@example.com
-- **GitHub**: [your-username](https://github.com/your-username)
+- **Portfolio**: darioalbor.dev.ar
+- **GitHub**: [DarioAlbor](https://github.com/DarioAlbor)
 
 Thank you for visiting this project! I hope you like it. 😊
