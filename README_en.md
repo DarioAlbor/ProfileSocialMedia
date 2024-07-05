@@ -43,7 +43,7 @@ You can view the deployed page on [Vercel](https://profilesocialmedia.vercel.app
 
 If you have any questions or suggestions, feel free to contact me:
 
-- **Portfolio**: darioalbor.dev.ar
-- **GitHub**: [DarioAlbor](https://github.com/DarioAlbor)
+- **Portfolio**:[Visit](darioalbor.dev.ar)
+- **GitHub**: [Dario Albor](https://github.com/DarioAlbor)
 
 Thank you for visiting this project! I hope you like it. 😊

@@ -43,7 +43,7 @@ Puedes ver la página desplegada en [Vercel](https://profilesocialmedia.vercel.a
 
 Si tienes alguna pregunta o sugerencia, no dudes en contactarme:
 
-- **Portfolio**: darioalbor.dev.ar
-- **GitHub**: [DarioAlbor](https://github.com/DarioAlbor)
+- **Portfolio**: [Visitame](darioalbor.dev.ar)
+- **GitHub**: [Dario Albor](https://github.com/DarioAlbor)
 
 ¡Gracias por visitar este proyecto! Espero que te guste. 😊
